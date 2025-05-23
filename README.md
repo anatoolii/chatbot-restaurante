@@ -1,3 +1,3 @@
 # Chatbot Restaurante
 
-Backend Node.js simple para usar con Dialogflow y desplegar en Render.
+Este es un backend básico para integrar con Dialogflow y desplegar en Render.

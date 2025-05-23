@@ -1,7 +1,7 @@
 {
   "name": "chatbot-restaurante",
   "version": "1.0.0",
-  "description": "Chatbot backend para restaurante usando Express",
+  "description": "Chatbot backend para restaurante usando Node.js y Express",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
